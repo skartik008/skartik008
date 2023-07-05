@@ -10,6 +10,7 @@ Some of the major project highlights of my association with Starbucks are
 I would love to learn more on build engineering side / SRE and would love to move to SRE role in the future.
 
 [LinkedIn](https://www.linkedin.com/in/kartiksai/)
+
 [Medium](https://medium.com/@kartiksiddhabathula)
 
 <!--
